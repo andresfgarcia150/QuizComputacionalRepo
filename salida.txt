@@ -1,0 +1,16 @@
+Primero se presenta la pendiente de la regresión logarítmica (el exponente de la regresión potencia) y luego el corte (constante que multiplica a la potencia)
+
+Los elementos de la regresion del libro  Don_Quijote_de_la_Mancha.txt  son: 
+[-0.86717212  3.11966921] 
+
+Los elementos de la regresion del libro  Orlando_Furioso.txt  son: 
+[-0.87532277  3.14520675] 
+
+Los elementos de la regresion del libro  Eeva.txt  son: 
+[-0.836902    3.08925896] 
+
+Los elementos de la regresion del libro  Beowulf.txt  son: 
+[-0.54855889  2.44673693]
+
+Los elementos de la regresion del libro  The_Fall_of_the_House_of_Usher.txt  son: 
+[-0.73515321  2.89885969] 
